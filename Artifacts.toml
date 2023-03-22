@@ -1,0 +1,180 @@
+[[llama_cpp]]
+arch = "aarch64"
+git-tree-sha1 = "0bf8d79a462a797d82e4f81cebdc2b027428ab7d"
+os = "macos"
+
+    [[llama_cpp.download]]
+    sha256 = "718bf163a8481051ed06516d64f783d9a4ea504ac541c01043a14cc744e656dc"
+    url = "https://github.com/JuliaBinaryWrappers/llama_cpp_jll.jl/releases/download/llama_cpp-v0.0.3+0/llama_cpp.v0.0.3.aarch64-apple-darwin.tar.gz"
+[[llama_cpp]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8557cb3b0356b1e02b71e0a19efb79958128061c"
+libc = "glibc"
+os = "linux"
+
+    [[llama_cpp.download]]
+    sha256 = "dd9deafe7fcbdc17d6253fd5f4c3c384a9c420c3b74e041c84f4abb6c040d911"
+    url = "https://github.com/JuliaBinaryWrappers/llama_cpp_jll.jl/releases/download/llama_cpp-v0.0.3+0/llama_cpp.v0.0.3.aarch64-linux-gnu-cxx03.tar.gz"
+[[llama_cpp]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5717f2fbb0da4d171d086321a77f82ce117da44b"
+libc = "glibc"
+os = "linux"
+
+    [[llama_cpp.download]]
+    sha256 = "3a804d4eada98dacca4ba6ee137371fe83becec7dcedc338fb6623d2a6a3c090"
+    url = "https://github.com/JuliaBinaryWrappers/llama_cpp_jll.jl/releases/download/llama_cpp-v0.0.3+0/llama_cpp.v0.0.3.aarch64-linux-gnu-cxx11.tar.gz"
+[[llama_cpp]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f7eeb6ff992fc563fe28371e94cb6f00c77c0629"
+libc = "musl"
+os = "linux"
+
+    [[llama_cpp.download]]
+    sha256 = "8d0177aa7e1d021cdb18baf0fd86b4a7895f1e9e5e88f36480495817ac33e076"
+    url = "https://github.com/JuliaBinaryWrappers/llama_cpp_jll.jl/releases/download/llama_cpp-v0.0.3+0/llama_cpp.v0.0.3.aarch64-linux-musl-cxx03.tar.gz"
+[[llama_cpp]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c62688b0d98b4b3e973014046cd0cc2fc2106712"
+libc = "musl"
+os = "linux"
+
+    [[llama_cpp.download]]
+    sha256 = "70f6fd6b6d555f4eb0253cea80b562b9ff8aa8813e68121b03e3ef9f97e9a048"
+    url = "https://github.com/JuliaBinaryWrappers/llama_cpp_jll.jl/releases/download/llama_cpp-v0.0.3+0/llama_cpp.v0.0.3.aarch64-linux-musl-cxx11.tar.gz"
+[[llama_cpp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "08556904de76aa5303df0b3568e5d04fdfb88d8a"
+libc = "glibc"
+os = "linux"
+
+    [[llama_cpp.download]]
+    sha256 = "e6a07f99983ce9b2ca162ff34e9f97c3d9f82a56b981d32c5a36ee55c300bc8b"
+    url = "https://github.com/JuliaBinaryWrappers/llama_cpp_jll.jl/releases/download/llama_cpp-v0.0.3+0/llama_cpp.v0.0.3.i686-linux-gnu-cxx03.tar.gz"
+[[llama_cpp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e5c5a7c478f9327161a7a726cb1d5f1adc2b9024"
+libc = "glibc"
+os = "linux"
+
+    [[llama_cpp.download]]
+    sha256 = "96f1c7c4e73d01457f37b38558396ce4475af9ea8bf3b2684aea55f0e1dff53d"
+    url = "https://github.com/JuliaBinaryWrappers/llama_cpp_jll.jl/releases/download/llama_cpp-v0.0.3+0/llama_cpp.v0.0.3.i686-linux-gnu-cxx11.tar.gz"
+[[llama_cpp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8e8d005fdf0eaa751a39fdb67c4634ecc46a87d6"
+libc = "musl"
+os = "linux"
+
+    [[llama_cpp.download]]
+    sha256 = "268e8da346405d1bb7201e426f7d90855eaad6fd7d6299320308c89871a8bb45"
+    url = "https://github.com/JuliaBinaryWrappers/llama_cpp_jll.jl/releases/download/llama_cpp-v0.0.3+0/llama_cpp.v0.0.3.i686-linux-musl-cxx03.tar.gz"
+[[llama_cpp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "399f6c02e18fd36c330e30dfc7cd89b674a62206"
+libc = "musl"
+os = "linux"
+
+    [[llama_cpp.download]]
+    sha256 = "c4729388d40e3a794f6333e29665608188b1fc5a93fabf4193ac121e4bc9b92d"
+    url = "https://github.com/JuliaBinaryWrappers/llama_cpp_jll.jl/releases/download/llama_cpp-v0.0.3+0/llama_cpp.v0.0.3.i686-linux-musl-cxx11.tar.gz"
+[[llama_cpp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "97e44a9120ee9ccc40bb91a61e0de979e8c29ae7"
+os = "windows"
+
+    [[llama_cpp.download]]
+    sha256 = "a088e678494ee8c8f7ebcc944f16945092fe768b0d6263578f82dfb26b58a548"
+    url = "https://github.com/JuliaBinaryWrappers/llama_cpp_jll.jl/releases/download/llama_cpp-v0.0.3+0/llama_cpp.v0.0.3.i686-w64-mingw32-cxx03.tar.gz"
+[[llama_cpp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "446d9c9dd4fa891bfe7875ec525da06aabe33acf"
+os = "windows"
+
+    [[llama_cpp.download]]
+    sha256 = "5abe66f6e38f21367f9e201efb70d1d649ad21c833f86b7a3e7db29d88f32baf"
+    url = "https://github.com/JuliaBinaryWrappers/llama_cpp_jll.jl/releases/download/llama_cpp-v0.0.3+0/llama_cpp.v0.0.3.i686-w64-mingw32-cxx11.tar.gz"
+[[llama_cpp]]
+arch = "x86_64"
+git-tree-sha1 = "f11bce12cef029e2f57608859271b925aea0bfd1"
+os = "macos"
+
+    [[llama_cpp.download]]
+    sha256 = "58a9ba8cf4c792df8c64bea3053eb4ca79a1e641b64f0da70f27e94f7813a85d"
+    url = "https://github.com/JuliaBinaryWrappers/llama_cpp_jll.jl/releases/download/llama_cpp-v0.0.3+0/llama_cpp.v0.0.3.x86_64-apple-darwin.tar.gz"
+[[llama_cpp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b9ba6366505909516c4adce269b81ed560f07906"
+libc = "glibc"
+os = "linux"
+
+    [[llama_cpp.download]]
+    sha256 = "a337943b93bd26163b8af7b29b3389760033990112d993de05fa8580ca622121"
+    url = "https://github.com/JuliaBinaryWrappers/llama_cpp_jll.jl/releases/download/llama_cpp-v0.0.3+0/llama_cpp.v0.0.3.x86_64-linux-gnu-cxx03.tar.gz"
+[[llama_cpp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "12bc37050fd7d2c4d7cbabb063cab0ab82c684aa"
+libc = "glibc"
+os = "linux"
+
+    [[llama_cpp.download]]
+    sha256 = "1b652eb0db870c7e4975b0871b147be53f24f361b73615375305bc156683462d"
+    url = "https://github.com/JuliaBinaryWrappers/llama_cpp_jll.jl/releases/download/llama_cpp-v0.0.3+0/llama_cpp.v0.0.3.x86_64-linux-gnu-cxx11.tar.gz"
+[[llama_cpp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4c7cf312bfdeb953f43c11f98e9181e258d605f3"
+libc = "musl"
+os = "linux"
+
+    [[llama_cpp.download]]
+    sha256 = "64ae7f35b457e3a9de4a25302400ea1572b0f1fe623cfdf46cc0650fc9ab52f0"
+    url = "https://github.com/JuliaBinaryWrappers/llama_cpp_jll.jl/releases/download/llama_cpp-v0.0.3+0/llama_cpp.v0.0.3.x86_64-linux-musl-cxx03.tar.gz"
+[[llama_cpp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5789c842ffc595d3fdf3c9f319aabb3238d3245b"
+libc = "musl"
+os = "linux"
+
+    [[llama_cpp.download]]
+    sha256 = "dfdbcd073050fb0ddbf5c3fedb2d979d041ed37baf80233457e4e2130d0df36f"
+    url = "https://github.com/JuliaBinaryWrappers/llama_cpp_jll.jl/releases/download/llama_cpp-v0.0.3+0/llama_cpp.v0.0.3.x86_64-linux-musl-cxx11.tar.gz"
+[[llama_cpp]]
+arch = "x86_64"
+git-tree-sha1 = "f9f74a83c273536f0448dd757819b2b30b09e762"
+os = "freebsd"
+
+    [[llama_cpp.download]]
+    sha256 = "131106627ef1bc40b94e859fff920ce51192e9b6efc4252264e2d2689553c91b"
+    url = "https://github.com/JuliaBinaryWrappers/llama_cpp_jll.jl/releases/download/llama_cpp-v0.0.3+0/llama_cpp.v0.0.3.x86_64-unknown-freebsd.tar.gz"
+[[llama_cpp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7efc1879cd19e8ad87801b9dbf4b500bef679862"
+os = "windows"
+
+    [[llama_cpp.download]]
+    sha256 = "d8f8082b832e55203b6398fd90fbcf232ab38714c2fbd5558f804b9cca2d5f3b"
+    url = "https://github.com/JuliaBinaryWrappers/llama_cpp_jll.jl/releases/download/llama_cpp-v0.0.3+0/llama_cpp.v0.0.3.x86_64-w64-mingw32-cxx03.tar.gz"
+[[llama_cpp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "30060897b7911777e9ce1a8be6ba13f3b31a994f"
+os = "windows"
+
+    [[llama_cpp.download]]
+    sha256 = "cbb5b9c7a1f6816d2e900b6b61194dbdd30df8dd60d9546f2536b4a4d82b9882"
+    url = "https://github.com/JuliaBinaryWrappers/llama_cpp_jll.jl/releases/download/llama_cpp-v0.0.3+0/llama_cpp.v0.0.3.x86_64-w64-mingw32-cxx11.tar.gz"
